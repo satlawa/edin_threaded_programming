@@ -1,1 +1,3 @@
-# edin_threaded_programming
+# Threaded Programming
+
+Implementation of threaded programming in OpenMP.
