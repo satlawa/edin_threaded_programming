@@ -1,3 +1,3 @@
 # Threaded Programming
 
-Implementation of threaded programming in OpenMP.
+Implementation ans analyis of performanc of threaded programming shedules in OpenMP.
